@@ -9,7 +9,7 @@ I'm a passionate **Software Developer** with experience in **TypeScript, Node.js
 - 🔭 Working on: **Backend integrations & cloud infrastructure at ByDesign**
 - 🌱 Currently exploring: **AI tooling, RAG architecture, and vector databases** 🤖🧠
 - 🌍 Languages: **TypeScript, JavaScript, C#, SQL** · Human: **English, Spanish**
-- 📫 How to reach me: **[your email address]**
+- 📫 How to reach me: **ebonetmoncada@gmail.com**
 - ☕ Fuel: **Coffee + clean code**
 - 🎬 Movie taste: **The Matrix · Blade Runner 2049 · Dune** 🏜️
 - ⚡ Fun fact: **I'm building a dedicated home theater with a full Atmos setup and audiophile-grade speakers 🎬🔊**
